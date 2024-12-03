@@ -4,8 +4,8 @@ Welcome to the **Advent of Code** solutions repository! This repo contains my so
 
 ## Table of Contents
 
-- ➡️ About Advent of Code
-- ➡️ Repository Structure
+&#8594 About Advent of Code
+&#8594 Repository Structure
 
 ## 📚 About Advent of Code 
 

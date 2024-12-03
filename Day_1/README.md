@@ -16,29 +16,13 @@ There's just one problem: by holding the two lists up side by side (your puzzle 
 
 For example:
 
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
-    3<br>
-    4<br>
-    2<br>
-    1<br>
-    3<br>
-    3<br>
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    4<br>
-    3<br>
-    5<br>
-    3<br>
-    9<br>
-    3<br>
-  </div>
-</div>
-
-
-
-
-
+|----------|----------|
+| 3        | 4        |
+| 4        | 3        |
+| 2        | 5        |
+| 1        | 3        |
+| 3        | 9        |
+| 3        | 3        |
 
 3   4
 4   3
@@ -76,6 +60,15 @@ The Historians can't agree on which group made the mistakes or how to read most 
 This time, you'll need to figure out exactly how often each number from the left list appears in the right list. Calculate a total similarity score by adding up each number in the left list after multiplying it by the number of times that number appears in the right list.
 
 Here are the same example lists again:
+
+|----------|----------|
+| 3        | 4        |
+| 4        | 3        |
+| 2        | 5        |
+| 1        | 3        |
+| 3        | 9        |
+| 3        | 3        |
+
 
 3   4
 4   3

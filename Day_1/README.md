@@ -16,6 +16,30 @@ There's just one problem: by holding the two lists up side by side (your puzzle 
 
 For example:
 
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    3<br>
+    4<br>
+    2<br>
+    1<br>
+    3<br>
+    3<br>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    4<br>
+    3<br>
+    5<br>
+    3<br>
+    9<br>
+    3<br>
+  </div>
+</div>
+
+
+
+
+
+
 3   4
 4   3
 2   5

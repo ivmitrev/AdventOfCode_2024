@@ -1,6 +1,6 @@
 # 🎄 Advent of Code 2024 🎄
 
-Welcome to the **Advent of Code** solutions repository! This repo contains my solutions in **C#** to the daily challenges for **Advent of Code**—an annual coding event where participants solve coding puzzles each day from December 1st to December 25th.
+Welcome to the **Advent of Code** solutions repository! This repo contains my solutions in **<style>C#{color:Blue;}</style>** to the daily challenges for **Advent of Code**—an annual coding event where participants solve coding puzzles each day from December 1st to December 25th.
 
 ## Table of Contents
 

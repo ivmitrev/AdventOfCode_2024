@@ -6,7 +6,7 @@ Welcome to the **Advent of Code** solutions repository! This repo contains my so
 - [About Advent of Code](#about-advent-of-code)
 - [Repository Structure](#repository-structure)
 
-## About Advent of Code 📚
+## About Advent of Code 
 
 **Advent of Code** is an annual event in December, where each day a new programming puzzle is released. The puzzles can range from simple algorithmic challenges to complex problems involving data structures and optimization techniques. Solutions are typically written in any programming language, and the event encourages solving each day’s puzzle independently, at your own pace.
 

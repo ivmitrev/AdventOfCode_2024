@@ -3,8 +3,9 @@
 Welcome to the **Advent of Code** solutions repository! This repo contains my solutions in **C#** to the daily challenges for **Advent of Code**—an annual coding event where participants solve coding puzzles each day from December 1st to December 25th.
 
 ## Table of Contents
-- [📚 About Advent of Code](#about-advent-of-code)
-- [📂 Repository Structure](#repository-structure)
+
+➡️ About Advent of Code
+➡️ Repository Structure
 
 ## 📚 About Advent of Code 
 
